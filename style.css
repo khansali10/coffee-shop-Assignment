@@ -13,7 +13,7 @@ a {
   height: 100%;
 }
 .header_background {
-  background-image: url("../assignment 2 design/coffee-shop-html-template/img/carousel-1.jpg");
+  background-image: url("img/carousel-1.jpg");
   background-size: cover;
 }
 .header {
@@ -168,7 +168,7 @@ section {
 }
 
 .background {
-  background-image: url("../assignment 2 design/coffee-shop-html-template/img/bg.jpg");
+  background-image: url("img/bg.jpg");
   background-size: cover;
 }
 .background_blur {
