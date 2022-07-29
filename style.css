@@ -174,7 +174,7 @@ section {
 .background_blur {
   background-color: rgba(43, 21, 21, 0.9);
 }
-.background_blur .overlay{
+.background_blur .overlay,.background_blur{
   width:fit-content;
   width:100%;
   margin-bottom: -10px;
